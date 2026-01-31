@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo realizar uma **análise de cohort** utilizando **MySQL** para segmentar os dados em coortes com base em características compartilhadas, com foco principal em **métricas de clientes e receita ao longo do tempo**. Ao analisar aspectos como **quantidade de invoices (faturas)**, **número de clientes** e **receita por cohort**, o projeto fornece insights relevantes sobre **retenção de clientes, comportamento de compra e tendências de receita**. As visualizações em **Power BI** são usadas para apresentar essas análises de forma mais clara, apoiando interpretação e tomada de decisão estratégica.
 
-> **Observação:** o projeto foi desenvolvido originalmente em **inglês**.
+> **Observação:** o projeto foi feito parcialmente em **inglês**.
 
 Clique na **imagem** abaixo:  
 [![Imagem do Dashboard](https://github.com/nafiul-araf/Cohort-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard%20Image.JPG)](https://app.powerbi.com/view?r=eyJrIjoiMGU5ZjU1YzQtYTIxYi00MTUyLThlMjMtOTlhMzJhNzI1NGNkIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
